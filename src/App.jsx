@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <h1>Vite + Node.js on AWS</h1>
+      <h1>Vite + Node.js on AWS ( Github Action )</h1>
       <p>Status: <strong>{message}</strong></p>
     </div>
   )
