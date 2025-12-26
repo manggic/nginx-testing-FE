@@ -1,3 +1,6 @@
+[![Deploy Frontend](https://github.com/manggic/nginx-testing-FE/actions/workflows/deploy.yml/badge.svg)](https://github.com/manggic/nginx-testing-FE/actions/workflows/deploy.yml)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
